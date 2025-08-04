@@ -2,8 +2,8 @@
   "name": "SketchUp Q&A Generation Environment",
   "user": "root",
   "snapshot": "POPULATED_FROM_SETTINGS",
-  "install": "pip install -r requirements.txt && python -m pip install --upgrade pip",
-  "start": "echo 'SketchUp Q&A Generation environment started'",
+  "install": "pip install -r requirements.txt",
+  "start": "echo 'Environment ready'",
   "repositoryDependencies": [
     "github.com/skmr2177/sketchup_qa_agents"
   ],
@@ -16,19 +16,9 @@
   ],
   "terminals": [
     {
-      "name": "Q&A Generation Monitor",
-      "command": "python -c \"print('🚀 SketchUp Q&A Generation Environment Ready!'); print('📁 Available scripts:'); print('  - generate_qa_ollama_all.py: Process all transcripts'); print('  - categorize_qa_by_content.py: Categorize Q&A content'); print('  - convert_to_excel.py: Convert to Excel format'); print('📊 Current status: Ready for Q&A generation')\"",
-      "description": "Shows the status of the Q&A generation environment and available scripts"
-    },
-    {
-      "name": "File System Monitor",
-      "command": "watch -n 5 'echo \"📂 Current Q&A files:\"; find output -name \"*_QnA.md\" | wc -l; echo \"📄 Recent files:\"; find output -name \"*_QnA.md\" -mtime -1 | head -5'",
-      "description": "Monitors the file system for new Q&A files and shows recent additions"
-    },
-    {
-      "name": "Git Status Monitor",
-      "command": "watch -n 10 'echo \"🔍 Git Status:\"; git status --porcelain | head -10; echo \"📈 Recent commits:\"; git log --oneline -5'",
-      "description": "Monitors Git status and shows recent commits for version control tracking"
+      "name": "Environment Status",
+      "command": "echo 'SketchUp Q&A Generation Environment Ready' && echo 'Available scripts:' && ls -la *.py | head -10",
+      "description": "Shows the status of the environment and available scripts"
     }
   ]
 } 
