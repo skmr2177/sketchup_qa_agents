@@ -72,4 +72,7 @@ output/temp/
 output/categorized_backup/
 
 # Transcript files (if you don't want to track them)
-# transcripts/ 
+# transcripts/
+
+# MCP server (embedded git repo)
+mcp-server-youtube-transcript/ 
