@@ -3,22 +3,7 @@
   "user": "root",
   "snapshot": "POPULATED_FROM_SETTINGS",
   "install": "pip install -r requirements.txt",
-  "start": "echo 'Environment ready'",
   "repositoryDependencies": [
     "github.com/skmr2177/sketchup_qa_agents"
-  ],
-  "agentCanUpdateSnapshot": true,
-  "ports": [
-    {
-      "name": "Development Server",
-      "port": 8000
-    }
-  ],
-  "terminals": [
-    {
-      "name": "Environment Status",
-      "command": "echo 'SketchUp Q&A Generation Environment Ready' && echo 'Available scripts:' && ls -la *.py | head -10",
-      "description": "Shows the status of the environment and available scripts"
-    }
   ]
 } 
