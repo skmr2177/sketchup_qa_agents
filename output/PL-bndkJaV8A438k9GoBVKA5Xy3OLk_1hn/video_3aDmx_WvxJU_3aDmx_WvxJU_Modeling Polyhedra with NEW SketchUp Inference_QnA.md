@@ -1,0 +1,1 @@
+There are no Q&A pairs in the text. The provided text is a script for a video tutorial on geometry, specifically on rotating faces of polyhedra to create truncated icosahedrons.
