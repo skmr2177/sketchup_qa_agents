@@ -1,0 +1,9 @@
+Title: SketchUp Skill Builder: Tip for Editing Components
+Video ID: M8Q5LHLD6Z8
+Playlist Index: 13
+Playlist URL: https://www.youtube.com/watch?v=4JrfvfipULo&list=PL-bndkJaV8A5VmrwvxMw-IYgSJLlV-vjH&pp=0gcJCV8EOCosWNin
+Video URL: https://www.youtube.com/watch?v=M8Q5LHLD6Z8
+Downloaded: 2025-07-18T17:21:47.647770
+--------------------------------------------------------------------------------
+
+Kind: captions Hi, this is Tyson with another SketchUp Skill Builder for you. This time around let's look at a tip for editing Components and Groups. These beams are all components, and they're embedded within this building so I'm going to double click to go down through the nested levels and start editing them. Now if I were to go in and want to edit some of the details, you can see that the other geometry might get in the way as I'm working on this component, but there is a simple way around this. If I go to the View menu to Component Edit I can Hide Rest of Model. And I can also Hide Similar Components, making it very easy to edit just this component. Go in and actually hides that component. And now, make some changes. And if I were to View, turn that off. You can see all these changes are perpetuated. Now that's really helpful, however going back and forth to the View menu is somewhat cumbersome. So, I recommend opening up your preferences and assigning this a keyboard shortcut. Filter by "component" and you can find Edit&gt;Hide Rest of Model and Edit&gt;Hide Similar Components and I've assigned each of these a keyboard shortcut that works for me. And you can see now, I can toggle the rest of the model or similar components on and off. I hope this tip was helpful. Give it a try yourself!

@@ -1,0 +1,23 @@
+# YouTube Q&A Generation Agent Configuration
+# ==========================================
+
+# OpenAI Configuration (Required)
+OPENAI_API_KEY=your_openai_api_key_here
+MODEL_NAME=gpt-4
+
+# Processing Configuration (Optional)
+MAX_CHUNK_WORDS=300
+SIMILARITY_THRESHOLD=0.85
+MAX_RETRIES=3
+RETRY_DELAY=5
+
+# Directory Configuration (Optional)
+TRANSCRIPT_DIR=transcripts
+OUTPUT_DIR=output
+LOGS_DIR=logs
+
+# Instructions:
+# 1. Copy this file to .env
+# 2. Replace 'your_openai_api_key_here' with your actual OpenAI API key
+# 3. Adjust other settings as needed
+# 4. Run: python run_agent.py 

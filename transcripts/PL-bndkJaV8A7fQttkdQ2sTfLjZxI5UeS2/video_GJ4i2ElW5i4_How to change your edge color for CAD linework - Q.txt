@@ -1,0 +1,11 @@
+Title: How to change your edge color for CAD linework - Quick Win
+Video ID: GJ4i2ElW5i4
+Playlist Index: 4
+Playlist URL: https://www.youtube.com/watch?v=7rrWgMea-vc&list=PL-bndkJaV8A7fQttkdQ2sTfLjZxI5UeS2
+Video URL: https://www.youtube.com/watch?v=GJ4i2ElW5i4
+Uploader: SketchUp
+Duration: 56 seconds
+Downloaded: 2025-07-22T15:06:04.219182
+--------------------------------------------------------------------------------
+
+hey everyone this is Eric did you know that you can have more than one edge color in your model this comes in handy when tracing over line work like this cad floor plan here to do this in the stylus panel under edit I'll switch my edge color to by material then I'll select my cad line workgroup and under entity info just to add a color as you can see I've now differentiated between my CAD base and my new lines drawn right on top just another quick win from Sketchup you

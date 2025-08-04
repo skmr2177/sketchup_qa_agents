@@ -1,0 +1,143 @@
+WEBVTT
+Kind: captions
+
+00:00:09.160 --> 00:00:13.470 position:63% line:0%
+Hey guys, this is Aaron. I want to take a
+look today at installing extensions. There's
+
+00:00:13.470 --> 00:00:17.160 position:63% line:0%
+a couple of different ways to get extensions
+installed in SketchUp. The first one we will
+
+00:00:17.160 --> 00:00:23.770 position:63% line:0%
+look at is via the Extension Warehouse. If
+I click on the Extension Warehouse button
+
+00:00:23.770 --> 00:00:29.481 position:63% line:0%
+or go to window, Extension Warehouse, it will
+pull up this browser window of the Extension
+
+00:00:29.481 --> 00:00:36.500 position:63% line:0%
+Warehouse. Now, from here you can use the
+search box or the extension list or filters
+
+00:00:36.500 --> 00:00:41.030 position:63% line:0%
+to find the extension you want. In my case
+I am going to go find one of the ThomThom
+
+00:00:41.030 --> 00:00:50.600 position:63% line:0%
+extensions. And I'm going to scroll down.
+What I'm looking for is Groups to Components.
+
+00:00:50.600 --> 00:00:55.910 position:63% line:0%
+Now the first thing you want to make sure
+you are doing is logging into Extension Warehouse.
+
+00:00:55.910 --> 00:01:00.649 position:63% line:0%
+There are a couple of reasons you want to
+do this. One is if you download it, the extension
+
+00:01:00.649 --> 00:01:06.350 position:63% line:0%
+you download will go into your "My Extensions"
+list so in future versions, or if you install
+
+00:01:06.350 --> 00:01:10.420 position:63% line:0%
+into a new computer, it's really easy to just
+go to "My Extensions" and install all of your
+
+00:01:10.420 --> 00:01:14.830 position:63% line:0%
+extensions at once. The other reason I would
+do this is because instead of download I will
+
+00:01:14.830 --> 00:01:20.220 position:63% line:0%
+actually get the install button. To install
+this Groups to Components extension, all I
+
+00:01:20.220 --> 00:01:26.869 position:63% line:0%
+have to do is click the install button. It's
+going to come up and prompt me reminding me
+
+00:01:26.869 --> 00:01:32.259 position:63% line:0%
+that I am giving this program some rights
+on my computer. Do you want to install? I'm
+
+00:01:32.259 --> 00:01:37.910 position:63% line:0%
+going to hit yes, and I'm done. Okay, so if
+I come out here now, I'll find that if I go
+
+00:01:37.910 --> 00:01:44.229 position:63% line:0%
+to extension, I have the option of Convert
+Groups to Components. That extension is now
+
+00:01:44.229 --> 00:01:49.030 position:63% line:0%
+installed. Now, when it comes to maintaining
+those installed extensions, I can click this
+
+00:01:49.030 --> 00:01:53.380 position:63% line:0%
+button right here to get my extension manager
+up. The extension manager is going to give
+
+00:01:53.380 --> 00:01:57.860 position:63% line:0%
+you a list of all the extensions that are
+installed in this copy of SketchUp, including
+
+00:01:57.860 --> 00:02:03.479 position:63% line:0%
+the one I just installed right here - Groups
+to Components. Now, if I want to, from this
+
+00:02:03.479 --> 00:02:08.750 position:63% line:0%
+screen, I can actually disable individual
+extensions. So, if I don't want to see Groups
+
+00:02:08.750 --> 00:02:14.340 position:63% line:0%
+to Components I can temporarily, without uninstalling
+it, disable it by clicking the enable/disable
+
+00:02:14.340 --> 00:02:21.700 position:63% line:0%
+switch and hitting apply changes. If I want
+to permanently disable or remove, I can uninstall
+
+00:02:21.700 --> 00:02:25.780 position:63% line:0%
+by using the manage tab. The other thing that
+is nice about the manage tab is if you have
+
+00:02:25.780 --> 00:02:29.810 position:63% line:0%
+an update to one of your extensions, you will
+actually have the ability to click the update
+
+00:02:29.810 --> 00:02:35.110 position:63% line:0%
+button and update that. Now the update button
+is only going to show up for extensions that
+
+00:02:35.110 --> 00:02:40.310 position:63% line:0%
+are installed through the Extension Warehouse.
+Speaking of which, if I wanted to install
+
+00:02:40.310 --> 00:02:44.361 position:63% line:0%
+an extension that I didn't find in the Extension
+Warehouse, I can do that through the extension
+
+00:02:44.361 --> 00:02:52.480 position:63% line:0%
+manager by clicking install extension, navigating
+to where that RBZ file is. in this case I
+
+00:02:52.480 --> 00:03:00.450 position:63% line:0%
+have Eneroth's Camera Memory. I'm going to
+click on that. I'm going to hit open, and,
+
+00:03:00.450 --> 00:03:07.000 position:63% line:0%
+with that, it is installed. So I have that
+right here. Again, easy to install, and at
+
+00:03:07.000 --> 00:03:11.800 position:63% line:0%
+this point it is just like an extension that
+was installed through the warehouse, except
+
+00:03:11.800 --> 00:03:17.660 position:63% line:0%
+that it won't be available for updates. So,
+there you go! That is how you go about installing
+
+00:03:17.660 --> 00:03:20.810 position:63% line:0%
+and managing your extensions inside of SketchUp.
+Thank you.
+
