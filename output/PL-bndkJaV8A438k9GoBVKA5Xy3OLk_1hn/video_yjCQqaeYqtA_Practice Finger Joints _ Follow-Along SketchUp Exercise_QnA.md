@@ -5,7 +5,7 @@
 1. What is the primary focus and learning objective of this Practice Finger Joints | Follow-Along SketchUp Exercise tutorial?
 Answer:
  This comprehensive tutorial covers practice finger joints | follow-along sketchup exercise with the following key objectives:
-• Kind: captions hey y'all my name is Tyson and this time around  let's just do some uh a basic p...
+• Kind: captions hey y'all my name is the instructor and this time around  let's just do some uh a basic p...
 • Master fundamental SketchUp techniques
 • Develop professional modeling skills
 • Optimize workflow for maximum efficiency and quality

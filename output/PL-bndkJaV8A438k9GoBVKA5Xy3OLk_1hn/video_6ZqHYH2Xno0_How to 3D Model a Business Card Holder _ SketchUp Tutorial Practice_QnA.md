@@ -5,7 +5,7 @@
 1. What is the primary focus and learning objective of this How to 3D Model a Business Card Holder | SketchUp Tutorial Practice tutorial?
 Answer:
  This comprehensive tutorial covers how to 3d model a business card holder | sketchup tutorial practice with the following key objectives:
-• Kind: captions Hey guys, it's Aaron, and today, we're going to model a business card holder
+• Kind: captions Hey guys, it's the instructor, and today, we're going to model a business card holder
 • Master the specific techniques demonstrated in this tutorial
 • Develop professional modeling skills
 • Apply best practices for efficient workflow
